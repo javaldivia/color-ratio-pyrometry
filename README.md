@@ -13,3 +13,7 @@ This repository contains code for color ratio pyrometry, a technique for tempera
 
 ### Usage:
 Instructions on how to convert RAW images to TIFF and generate calibration data for ratio pyrometry will be provided in the documentation.
+
+## Acknowledgments
+This project uses [DCRAW](https://www.dechifro.org/dcraw/) for converting RAW images to TIFF format.
+
